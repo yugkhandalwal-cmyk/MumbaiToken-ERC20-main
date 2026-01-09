@@ -1,6 +1,6 @@
 # MumbaiToken
 
-A custom ERC-20 token for EthMumbai 2025.
+A custom ERC-20 token for EthMumbai 2026.
 
 ## Overview
 
